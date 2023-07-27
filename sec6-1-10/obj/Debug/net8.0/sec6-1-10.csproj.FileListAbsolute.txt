@@ -1,0 +1,14 @@
+C:\Users\a\Desktop\Assistedproject\sec6-1-10\bin\Debug\net8.0\sec6-1-10.exe
+C:\Users\a\Desktop\Assistedproject\sec6-1-10\bin\Debug\net8.0\sec6-1-10.deps.json
+C:\Users\a\Desktop\Assistedproject\sec6-1-10\bin\Debug\net8.0\sec6-1-10.runtimeconfig.json
+C:\Users\a\Desktop\Assistedproject\sec6-1-10\bin\Debug\net8.0\sec6-1-10.dll
+C:\Users\a\Desktop\Assistedproject\sec6-1-10\bin\Debug\net8.0\sec6-1-10.pdb
+C:\Users\a\Desktop\Assistedproject\sec6-1-10\obj\Debug\net8.0\sec6-1-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\Assistedproject\sec6-1-10\obj\Debug\net8.0\sec6-1-10.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\Assistedproject\sec6-1-10\obj\Debug\net8.0\sec6-1-10.AssemblyInfo.cs
+C:\Users\a\Desktop\Assistedproject\sec6-1-10\obj\Debug\net8.0\sec6-1-10.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Assistedproject\sec6-1-10\obj\Debug\net8.0\sec6-1-10.dll
+C:\Users\a\Desktop\Assistedproject\sec6-1-10\obj\Debug\net8.0\refint\sec6-1-10.dll
+C:\Users\a\Desktop\Assistedproject\sec6-1-10\obj\Debug\net8.0\sec6-1-10.pdb
+C:\Users\a\Desktop\Assistedproject\sec6-1-10\obj\Debug\net8.0\sec6-1-10.genruntimeconfig.cache
+C:\Users\a\Desktop\Assistedproject\sec6-1-10\obj\Debug\net8.0\ref\sec6-1-10.dll
