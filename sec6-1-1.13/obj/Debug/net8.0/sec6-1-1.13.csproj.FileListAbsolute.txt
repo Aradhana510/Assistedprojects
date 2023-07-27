@@ -1,0 +1,14 @@
+C:\Users\a\Desktop\Assistedproject\sec6-1-1.13\bin\Debug\net8.0\sec6-1-1.13.exe
+C:\Users\a\Desktop\Assistedproject\sec6-1-1.13\bin\Debug\net8.0\sec6-1-1.13.deps.json
+C:\Users\a\Desktop\Assistedproject\sec6-1-1.13\bin\Debug\net8.0\sec6-1-1.13.runtimeconfig.json
+C:\Users\a\Desktop\Assistedproject\sec6-1-1.13\bin\Debug\net8.0\sec6-1-1.13.dll
+C:\Users\a\Desktop\Assistedproject\sec6-1-1.13\bin\Debug\net8.0\sec6-1-1.13.pdb
+C:\Users\a\Desktop\Assistedproject\sec6-1-1.13\obj\Debug\net8.0\sec6-1-1.13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\Assistedproject\sec6-1-1.13\obj\Debug\net8.0\sec6-1-1.13.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\Assistedproject\sec6-1-1.13\obj\Debug\net8.0\sec6-1-1.13.AssemblyInfo.cs
+C:\Users\a\Desktop\Assistedproject\sec6-1-1.13\obj\Debug\net8.0\sec6-1-1.13.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Assistedproject\sec6-1-1.13\obj\Debug\net8.0\sec6-1-1.13.dll
+C:\Users\a\Desktop\Assistedproject\sec6-1-1.13\obj\Debug\net8.0\refint\sec6-1-1.13.dll
+C:\Users\a\Desktop\Assistedproject\sec6-1-1.13\obj\Debug\net8.0\sec6-1-1.13.pdb
+C:\Users\a\Desktop\Assistedproject\sec6-1-1.13\obj\Debug\net8.0\sec6-1-1.13.genruntimeconfig.cache
+C:\Users\a\Desktop\Assistedproject\sec6-1-1.13\obj\Debug\net8.0\ref\sec6-1-1.13.dll
