@@ -1,0 +1,14 @@
+C:\Users\a\Desktop\Assistedproject\sec8-1-1.29\bin\Debug\net8.0\sec8-1-1.29.exe
+C:\Users\a\Desktop\Assistedproject\sec8-1-1.29\bin\Debug\net8.0\sec8-1-1.29.deps.json
+C:\Users\a\Desktop\Assistedproject\sec8-1-1.29\bin\Debug\net8.0\sec8-1-1.29.runtimeconfig.json
+C:\Users\a\Desktop\Assistedproject\sec8-1-1.29\bin\Debug\net8.0\sec8-1-1.29.dll
+C:\Users\a\Desktop\Assistedproject\sec8-1-1.29\bin\Debug\net8.0\sec8-1-1.29.pdb
+C:\Users\a\Desktop\Assistedproject\sec8-1-1.29\obj\Debug\net8.0\sec8-1-1.29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\Assistedproject\sec8-1-1.29\obj\Debug\net8.0\sec8-1-1.29.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\Assistedproject\sec8-1-1.29\obj\Debug\net8.0\sec8-1-1.29.AssemblyInfo.cs
+C:\Users\a\Desktop\Assistedproject\sec8-1-1.29\obj\Debug\net8.0\sec8-1-1.29.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Assistedproject\sec8-1-1.29\obj\Debug\net8.0\sec8-1-1.29.dll
+C:\Users\a\Desktop\Assistedproject\sec8-1-1.29\obj\Debug\net8.0\refint\sec8-1-1.29.dll
+C:\Users\a\Desktop\Assistedproject\sec8-1-1.29\obj\Debug\net8.0\sec8-1-1.29.pdb
+C:\Users\a\Desktop\Assistedproject\sec8-1-1.29\obj\Debug\net8.0\sec8-1-1.29.genruntimeconfig.cache
+C:\Users\a\Desktop\Assistedproject\sec8-1-1.29\obj\Debug\net8.0\ref\sec8-1-1.29.dll
