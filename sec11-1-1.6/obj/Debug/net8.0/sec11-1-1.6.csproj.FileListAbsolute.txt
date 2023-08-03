@@ -1,0 +1,14 @@
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec11-1-1.6\bin\Debug\net8.0\sec11-1-1.6.exe
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec11-1-1.6\bin\Debug\net8.0\sec11-1-1.6.deps.json
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec11-1-1.6\bin\Debug\net8.0\sec11-1-1.6.runtimeconfig.json
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec11-1-1.6\bin\Debug\net8.0\sec11-1-1.6.dll
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec11-1-1.6\bin\Debug\net8.0\sec11-1-1.6.pdb
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec11-1-1.6\obj\Debug\net8.0\sec11-1-1.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec11-1-1.6\obj\Debug\net8.0\sec11-1-1.6.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec11-1-1.6\obj\Debug\net8.0\sec11-1-1.6.AssemblyInfo.cs
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec11-1-1.6\obj\Debug\net8.0\sec11-1-1.6.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec11-1-1.6\obj\Debug\net8.0\sec11-1-1.6.dll
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec11-1-1.6\obj\Debug\net8.0\refint\sec11-1-1.6.dll
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec11-1-1.6\obj\Debug\net8.0\sec11-1-1.6.pdb
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec11-1-1.6\obj\Debug\net8.0\sec11-1-1.6.genruntimeconfig.cache
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec11-1-1.6\obj\Debug\net8.0\ref\sec11-1-1.6.dll
