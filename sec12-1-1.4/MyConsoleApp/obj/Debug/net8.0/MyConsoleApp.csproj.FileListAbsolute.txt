@@ -1,0 +1,17 @@
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec12-1-1.4\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec12-1-1.4\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec12-1-1.4\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec12-1-1.4\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec12-1-1.4\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec12-1-1.4\MyConsoleApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec12-1-1.4\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec12-1-1.4\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec12-1-1.4\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec12-1-1.4\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec12-1-1.4\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec12-1-1.4\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CopyComplete
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec12-1-1.4\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec12-1-1.4\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec12-1-1.4\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec12-1-1.4\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\a\Desktop\Assesmentsdaily\Assistedproject\sec12-1-1.4\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
